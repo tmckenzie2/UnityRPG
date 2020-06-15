@@ -1,0 +1,1520 @@
+fileFormatVersion: 2
+guid: c205b7d9378ae87429fc686ce9d17b5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5307791115802816365
+    second: old-skeleton_0
+  - first:
+      213: 4398228290934276206
+    second: old-skeleton_1
+  - first:
+      213: 508207795561669942
+    second: old-skeleton_2
+  - first:
+      213: -2173646233639706690
+    second: old-skeleton_3
+  - first:
+      213: -89399170659575099
+    second: old-skeleton_4
+  - first:
+      213: 8434488956646154506
+    second: old-skeleton_5
+  - first:
+      213: 1074093735284718534
+    second: old-skeleton_6
+  - first:
+      213: 22549015623143365
+    second: old-skeleton_7
+  - first:
+      213: 7415947646793649428
+    second: old-skeleton_8
+  - first:
+      213: 3517339802828190502
+    second: old-skeleton_9
+  - first:
+      213: -1579861284589621545
+    second: old-skeleton_10
+  - first:
+      213: -2439939715096596335
+    second: old-skeleton_11
+  - first:
+      213: 7152802916604905182
+    second: old-skeleton_12
+  - first:
+      213: -1628229836435113554
+    second: old-skeleton_13
+  - first:
+      213: 643886332044615938
+    second: old-skeleton_14
+  - first:
+      213: 2738334585069655908
+    second: old-skeleton_15
+  - first:
+      213: -8033272151852906927
+    second: old-skeleton_16
+  - first:
+      213: -6032836673006695057
+    second: old-skeleton_17
+  - first:
+      213: 4794968036062479645
+    second: old-skeleton_18
+  - first:
+      213: 5750273304743488295
+    second: old-skeleton_19
+  - first:
+      213: -8330461539078316706
+    second: old-skeleton_20
+  - first:
+      213: -5448486491094675106
+    second: old-skeleton_21
+  - first:
+      213: 1571532506363004320
+    second: old-skeleton_22
+  - first:
+      213: -2429814921554364544
+    second: old-skeleton_23
+  - first:
+      213: -8123855479372381103
+    second: old-skeleton_24
+  - first:
+      213: -3661234870927071645
+    second: old-skeleton_25
+  - first:
+      213: -175189220561830240
+    second: old-skeleton_26
+  - first:
+      213: -6896780507301761906
+    second: old-skeleton_27
+  - first:
+      213: 1755527302551288020
+    second: old-skeleton_28
+  - first:
+      213: -198272093781254951
+    second: old-skeleton_29
+  - first:
+      213: 8209864254648608663
+    second: old-skeleton_30
+  - first:
+      213: -1335640273709345306
+    second: old-skeleton_31
+  - first:
+      213: 5804635829907801304
+    second: old-skeleton_32
+  - first:
+      213: -1361284386844061434
+    second: old-skeleton_33
+  - first:
+      213: -4112880958359260136
+    second: old-skeleton_34
+  - first:
+      213: -6269693211588195660
+    second: old-skeleton_35
+  - first:
+      213: 7826688484468545568
+    second: old-skeleton_36
+  - first:
+      213: 6763096867855620327
+    second: old-skeleton_37
+  - first:
+      213: -3362396558770730855
+    second: old-skeleton_38
+  - first:
+      213: 6095321327766765514
+    second: old-skeleton_39
+  - first:
+      213: 4285724992795389523
+    second: old-skeleton_40
+  - first:
+      213: -8054337606948075435
+    second: old-skeleton_41
+  - first:
+      213: 5118664189279780562
+    second: old-skeleton_42
+  - first:
+      213: -3186210856753501863
+    second: old-skeleton_43
+  - first:
+      213: -3657723412735394299
+    second: old-skeleton_44
+  - first:
+      213: -8007400020310472753
+    second: old-skeleton_45
+  - first:
+      213: 2587322748829437841
+    second: old-skeleton_46
+  - first:
+      213: 1757990596861055057
+    second: old-skeleton_47
+  - first:
+      213: 3749394342944550626
+    second: old-skeleton_48
+  - first:
+      213: 1766600897911286363
+    second: old-skeleton_49
+  - first:
+      213: -3164188450331567055
+    second: old-skeleton_50
+  - first:
+      213: 6380223371471286191
+    second: old-skeleton_51
+  - first:
+      213: 7234468113455975422
+    second: old-skeleton_52
+  - first:
+      213: -1586995771911550912
+    second: old-skeleton_53
+  - first:
+      213: -4968529178703633079
+    second: old-skeleton_54
+  - first:
+      213: -4141590650097536198
+    second: old-skeleton_55
+  - first:
+      213: 4161390119808472343
+    second: old-skeleton_56
+  - first:
+      213: -5938951301468576267
+    second: old-skeleton_57
+  - first:
+      213: 6006902265366058207
+    second: old-skeleton_58
+  - first:
+      213: -28693136652731089
+    second: old-skeleton_59
+  - first:
+      213: 4086592220308018184
+    second: old-skeleton_60
+  - first:
+      213: -7021662734599843877
+    second: old-skeleton_61
+  - first:
+      213: 7130985776257773696
+    second: old-skeleton_62
+  - first:
+      213: 7261316254010197898
+    second: old-skeleton_63
+  - first:
+      213: 3871491858948782725
+    second: old-skeleton_64
+  - first:
+      213: 1820990112538350588
+    second: old-skeleton_65
+  - first:
+      213: -3196175463769888947
+    second: old-skeleton_66
+  - first:
+      213: 5406532496212938665
+    second: old-skeleton_67
+  - first:
+      213: -6256595208495314291
+    second: old-skeleton_68
+  - first:
+      213: 5523248570771119688
+    second: old-skeleton_69
+  - first:
+      213: -3830531925294444040
+    second: old-skeleton_70
+  - first:
+      213: 4004928726226951118
+    second: old-skeleton_71
+  - first:
+      213: 5297529694211777940
+    second: old-skeleton_72
+  - first:
+      213: 6711670293459965195
+    second: old-skeleton_73
+  - first:
+      213: 8324276247038036392
+    second: old-skeleton_74
+  - first:
+      213: -7292912327701386848
+    second: old-skeleton_75
+  - first:
+      213: 3116837388762651737
+    second: old-skeleton_76
+  - first:
+      213: 3964254847305168559
+    second: old-skeleton_77
+  - first:
+      213: 1211343301482083676
+    second: old-skeleton_78
+  - first:
+      213: -8210582417464384555
+    second: old-skeleton_79
+  - first:
+      213: -5018111838499496110
+    second: old-skeleton_80
+  - first:
+      213: -1992289665899178651
+    second: old-skeleton_81
+  - first:
+      213: 3873709980256207548
+    second: old-skeleton_82
+  - first:
+      213: 7259107774971143397
+    second: old-skeleton_83
+  - first:
+      213: 2206436296987253454
+    second: old-skeleton_84
+  - first:
+      213: -1903058475948239125
+    second: old-skeleton_85
+  - first:
+      213: -1676363244275986447
+    second: old-skeleton_86
+  - first:
+      213: -4222216070100449894
+    second: old-skeleton_87
+  - first:
+      213: -8366537922162514679
+    second: old-skeleton_88
+  - first:
+      213: -4023913438789890803
+    second: old-skeleton_89
+  - first:
+      213: 3751411329168336334
+    second: old-skeleton_90
+  - first:
+      213: 8021757489594526945
+    second: old-skeleton_91
+  - first:
+      213: 7869960899136134936
+    second: old-skeleton_92
+  - first:
+      213: -8612264146217774387
+    second: old-skeleton_93
+  - first:
+      213: 812611118323468586
+    second: old-skeleton_94
+  - first:
+      213: 191119221896276757
+    second: old-skeleton_95
+  - first:
+      213: -4546143676367726072
+    second: old-skeleton_96
+  - first:
+      213: 5586295525667420180
+    second: old-skeleton_97
+  - first:
+      213: -2771440682518584163
+    second: old-skeleton_98
+  - first:
+      213: -4694103661820547078
+    second: old-skeleton_99
+  - first:
+      213: -7337308618424861122
+    second: old-skeleton_100
+  - first:
+      213: 7591173916228227229
+    second: old-skeleton_101
+  - first:
+      213: -2141707425472228329
+    second: old-skeleton_102
+  - first:
+      213: -461729853876266383
+    second: old-skeleton_103
+  - first:
+      213: -7486635186564613152
+    second: old-skeleton_104
+  - first:
+      213: 4882451824749515502
+    second: old-skeleton_105
+  - first:
+      213: -936349618606367314
+    second: old-skeleton_106
+  - first:
+      213: -3686171402771049205
+    second: old-skeleton_107
+  - first:
+      213: 5272006108836395682
+    second: old-skeleton_108
+  - first:
+      213: 1042602866362749631
+    second: old-skeleton_109
+  - first:
+      213: 8870502014375395523
+    second: old-skeleton_110
+  - first:
+      213: -4353453476809164589
+    second: old-skeleton_111
+  - first:
+      213: 4250459822096146442
+    second: old-skeleton_112
+  - first:
+      213: -7704027961527464337
+    second: old-skeleton_113
+  - first:
+      213: 638049721299623809
+    second: old-skeleton_114
+  - first:
+      213: -5175950001279278826
+    second: old-skeleton_115
+  - first:
+      213: -6680175593203455171
+    second: old-skeleton_116
+  - first:
+      213: 8573976901783637286
+    second: old-skeleton_117
+  - first:
+      213: 4365338676053936861
+    second: old-skeleton_118
+  - first:
+      213: -3158756777724349888
+    second: old-skeleton_119
+  - first:
+      213: 1950474184959370592
+    second: old-skeleton_120
+  - first:
+      213: 2841310401880995731
+    second: old-skeleton_121
+  - first:
+      213: -1390191296325427919
+    second: old-skeleton_122
+  - first:
+      213: -1918036710022590532
+    second: old-skeleton_123
+  - first:
+      213: -2935662583642921509
+    second: old-skeleton_124
+  - first:
+      213: -2939917890141165666
+    second: old-skeleton_125
+  - first:
+      213: -2691408904613296699
+    second: old-skeleton_126
+  - first:
+      213: 5417504499807031112
+    second: old-skeleton_127
+  - first:
+      213: -3904788059082215796
+    second: old-skeleton_128
+  - first:
+      213: 8416779026365063273
+    second: old-skeleton_129
+  - first:
+      213: 5280738877572970851
+    second: old-skeleton_130
+  - first:
+      213: -1026542481237391181
+    second: old-skeleton_131
+  - first:
+      213: 5646243525712273660
+    second: old-skeleton_132
+  - first:
+      213: -7758463824694479236
+    second: old-skeleton_133
+  - first:
+      213: -813461635493461656
+    second: old-skeleton_134
+  - first:
+      213: -5068884323182289621
+    second: old-skeleton_135
+  - first:
+      213: 710179280442261064
+    second: old-skeleton_136
+  - first:
+      213: -5932130570111453280
+    second: old-skeleton_137
+  - first:
+      213: 4430196836102579877
+    second: old-skeleton_138
+  - first:
+      213: -269392095874251511
+    second: old-skeleton_139
+  - first:
+      213: 3770648846048571828
+    second: old-skeleton_140
+  - first:
+      213: -2744561055583338658
+    second: old-skeleton_141
+  - first:
+      213: 2205325425846461618
+    second: old-skeleton_142
+  - first:
+      213: -2758326303356655206
+    second: old-skeleton_143
+  - first:
+      213: -5033265686338627169
+    second: old-skeleton_144
+  - first:
+      213: 4251527175657574911
+    second: old-skeleton_145
+  - first:
+      213: 8648033156837714377
+    second: old-skeleton_146
+  - first:
+      213: -5013131018122700291
+    second: old-skeleton_147
+  - first:
+      213: -4097610737080230526
+    second: old-skeleton_148
+  - first:
+      213: 7499615167162845378
+    second: old-skeleton_149
+  - first:
+      213: 5925594861137326123
+    second: old-skeleton_150
+  - first:
+      213: 856177593312114552
+    second: old-skeleton_151
+  - first:
+      213: 5191966156100286475
+    second: old-skeleton_152
+  - first:
+      213: 7139995362098410031
+    second: old-skeleton_153
+  - first:
+      213: -28944718708449417
+    second: old-skeleton_154
+  - first:
+      213: -1567863506264231727
+    second: old-skeleton_155
+  - first:
+      213: 435644146761810452
+    second: old-skeleton_156
+  - first:
+      213: -4581402974719481774
+    second: old-skeleton_157
+  - first:
+      213: 3019830752936359480
+    second: old-skeleton_158
+  - first:
+      213: -4004043217134249190
+    second: old-skeleton_159
+  - first:
+      213: -3085221070800916831
+    second: old-skeleton_160
+  - first:
+      213: -6351062699620526645
+    second: old-skeleton_161
+  - first:
+      213: -3698263796038866212
+    second: old-skeleton_162
+  - first:
+      213: 2762526496258821514
+    second: old-skeleton_163
+  - first:
+      213: 6560547408253661870
+    second: old-skeleton_164
+  - first:
+      213: -1455092025093179433
+    second: old-skeleton_165
+  - first:
+      213: -8986539415526926196
+    second: old-skeleton_166
+  - first:
+      213: -1506913189635322678
+    second: old-skeleton_167
+  - first:
+      213: 8535632172267288576
+    second: old-skeleton_168
+  - first:
+      213: 194285219805551204
+    second: old-skeleton_169
+  - first:
+      213: -540247657108903209
+    second: old-skeleton_170
+  - first:
+      213: 5324656498863175470
+    second: old-skeleton_171
+  - first:
+      213: -2338522734818062852
+    second: old-skeleton_172
+  - first:
+      213: -6223680635522883845
+    second: old-skeleton_173
+  - first:
+      213: -4393293740377410571
+    second: old-skeleton_174
+  - first:
+      213: -2391840659884966005
+    second: old-skeleton_175
+  - first:
+      213: -1060771545256491323
+    second: old-skeleton_176
+  - first:
+      213: 7744695657554481579
+    second: old-skeleton_177
+  - first:
+      213: 6282579908052813510
+    second: old-skeleton_178
+  - first:
+      213: -3059578080090244592
+    second: old-skeleton_179
+  - first:
+      213: -8274291008995462927
+    second: old-skeleton_180
+  - first:
+      213: 2878046719675061500
+    second: old-skeleton_181
+  - first:
+      213: 6039376935380644943
+    second: old-skeleton_182
+  - first:
+      213: 5023936512200387437
+    second: old-skeleton_183
+  - first:
+      213: 6167416017367700854
+    second: old-skeleton_184
+  - first:
+      213: 5541780089671343737
+    second: old-skeleton_185
+  - first:
+      213: 1106111076003076807
+    second: old-skeleton_186
+  - first:
+      213: 3896854771853459299
+    second: old-skeleton_187
+  - first:
+      213: -8507823603301298340
+    second: old-skeleton_188
+  - first:
+      213: 4643869862619143162
+    second: old-skeleton_189
+  - first:
+      213: -350577581066919196
+    second: old-skeleton_190
+  - first:
+      213: 1656949834255878019
+    second: old-skeleton_191
+  - first:
+      213: 2964502509145474963
+    second: old-skeleton_192
+  - first:
+      213: 2222786129088145231
+    second: old-skeleton_193
+  - first:
+      213: -8056947958411100842
+    second: old-skeleton_194
+  - first:
+      213: 6254136511289727265
+    second: old-skeleton_195
+  - first:
+      213: -2207939292688846892
+    second: old-skeleton_196
+  - first:
+      213: 4421841048096932478
+    second: old-skeleton_197
+  - first:
+      213: 5089056484319637960
+    second: old-skeleton_198
+  - first:
+      213: -9205094992964999621
+    second: old-skeleton_199
+  - first:
+      213: 4724066761955228037
+    second: old-skeleton_200
+  - first:
+      213: -4925431933978743753
+    second: old-skeleton_201
+  - first:
+      213: 3577340381420416602
+    second: old-skeleton_202
+  - first:
+      213: 7321770396204785400
+    second: old-skeleton_203
+  - first:
+      213: 4597462724182385616
+    second: old-skeleton_204
+  - first:
+      213: 5342929996537562600
+    second: old-skeleton_205
+  - first:
+      213: -4045804979619829632
+    second: old-skeleton_206
+  - first:
+      213: -1990035292939976555
+    second: old-skeleton_207
+  - first:
+      213: -8838425164145341910
+    second: old-skeleton_208
+  - first:
+      213: -1051603972368947636
+    second: old-skeleton_209
+  - first:
+      213: 9012874936264165861
+    second: old-skeleton_210
+  - first:
+      213: -8597529516478231958
+    second: old-skeleton_211
+  - first:
+      213: -8800584037474724225
+    second: old-skeleton_212
+  - first:
+      213: 6807119992083217159
+    second: old-skeleton_213
+  - first:
+      213: -8307976288775406380
+    second: old-skeleton_214
+  - first:
+      213: 3083916074847232773
+    second: old-skeleton_215
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: old-skeleton_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39059902a10f656b0800000000000000
+      internalID: -5307791115802816365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-skeleton_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60063ae355a90d30800000000000000
+      internalID: 4398228290934276206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-skeleton_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635a9862c448d0700800000000000000
+      internalID: 508207795561669942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-skeleton_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf1a885448a5d1e0800000000000000
+      internalID: -2173646233639706690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-skeleton_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca1f9d8de362cef0800000000000000
+      internalID: -89399170659575099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-skeleton_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0169daa4035d0570800000000000000
+      internalID: 8434488956646154506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-skeleton_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb3e1bbf82f7ee00800000000000000
+      internalID: 1074093735284718534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-skeleton_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf8042d53c105000800000000000000
+      internalID: 22549015623143365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-skeleton_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d8708e71dbae660800000000000000
+      internalID: 7415947646793649428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-skeleton_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623baed3ae910d030800000000000000
+      internalID: 3517339802828190502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-skeleton_10
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dea4a93884331ae0800000000000000
+      internalID: -1579861284589621545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-skeleton_11
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190bc48a1c7932ed0800000000000000
+      internalID: -2439939715096596335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-skeleton_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed60d900b5cd34360800000000000000
+      internalID: 7152802916604905182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-skeleton_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9b79a279d5769e0800000000000000
+      internalID: -1628229836435113554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-skeleton_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201af31253b8fe800800000000000000
+      internalID: 643886332044615938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-skeleton_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4675e3bfbc4800620800000000000000
+      internalID: 2738334585069655908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-skeleton_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15605cc3a85148090800000000000000
+      internalID: -8033272151852906927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-skeleton_17
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d8c7d520f074ca0800000000000000
+      internalID: -6032836673006695057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-skeleton_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d154bd226062b8240800000000000000
+      internalID: 4794968036062479645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-skeleton_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ba5aaba131dcf40800000000000000
+      internalID: 5750273304743488295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-skeleton_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dde2ced51446c80800000000000000
+      internalID: -8330461539078316706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-skeleton_21
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5199c657661364b0800000000000000
+      internalID: -5448486491094675106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-skeleton_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a50fbafc743fc510800000000000000
+      internalID: 1571532506363004320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-skeleton_23
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087fecad330974ed0800000000000000
+      internalID: -2429814921554364544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-skeleton_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1540669cb74424f80800000000000000
+      internalID: -8123855479372381103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-skeleton_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3666e1f684ea03dc0800000000000000
+      internalID: -3661234870927071645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-skeleton_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae3fe3055a919df0800000000000000
+      internalID: -175189220561830240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-skeleton_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ca0785ba6b940a0800000000000000
+      internalID: -6896780507301761906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-skeleton_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8b11ec7c2ec5810800000000000000
+      internalID: 1755527302551288020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-skeleton_29
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc9b49c4989f3df0800000000000000
+      internalID: -198272093781254951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-skeleton_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797e188ba0c4fe170800000000000000
+      internalID: 8209864254648608663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-skeleton_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e559d16f3ad67de0800000000000000
+      internalID: -1335640273709345306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-skeleton_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4c82478853e8050800000000000000
+      internalID: 5804635829907801304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-skeleton_33
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601dfd3001fbb1de0800000000000000
+      internalID: -1361284386844061434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-skeleton_34
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81437813f8c1ce6c0800000000000000
+      internalID: -4112880958359260136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-skeleton_35
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba8b980e339df8a0800000000000000
+      internalID: -6269693211588195660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
