@@ -9,12 +9,15 @@ public abstract class Character : MonoBehaviour
 
     protected Vector3 change;
 
+    private Rigidbody2D myRigidbody;
+
     private Animator animator;
 
 
     // Start is called before the first frame update
     protected virtual void Start()
     {
+        myRigidbody = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         
     }
@@ -45,7 +48,7 @@ public abstract class Character : MonoBehaviour
 
     public void Move()
     {
-        transform.Translate(change*speed*Time.deltaTime);
+        transform.Translate(change.normalized*speed*Time.deltaTime);
 
     }
 }
