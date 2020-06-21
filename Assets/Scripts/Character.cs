@@ -4,6 +4,7 @@ using UnityEngine;
 
 public abstract class Character : MonoBehaviour
 {
+
      [SerializeField]
     private float speed;
 
@@ -11,7 +12,15 @@ public abstract class Character : MonoBehaviour
 
     private Rigidbody2D myRigidbody;
 
-    private Animator animator;
+    protected Animator animator;
+
+    public bool isMoving
+    {
+        get
+        {
+        return change.x != 0 || change.y != 0;
+        }
+    }
 
 
     // Start is called before the first frame update
@@ -26,9 +35,7 @@ public abstract class Character : MonoBehaviour
     protected virtual void Update()
     {  
         AnimateMovement(change);
-    }
-
-    
+    }  
 
     public void AnimateMovement(Vector3 change)
     {
@@ -48,7 +55,9 @@ public abstract class Character : MonoBehaviour
 
     public void Move()
     {
-        transform.Translate(change.normalized*speed*Time.deltaTime);
+        myRigidbody.MovePosition(
+        transform.position + change.normalized*speed*Time.deltaTime
+        );
 
     }
 }
