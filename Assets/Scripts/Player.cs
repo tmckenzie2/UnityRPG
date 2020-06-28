@@ -31,7 +31,7 @@ public class Player : Character
     private int exitIndex;
 
     //Picking a target
-    public Transform myTarget {get; set;}
+    public Transform MyTarget {get; set;}
 
    
     // Start is called before the first frame update
@@ -49,11 +49,8 @@ public class Player : Character
     {
         GetInput();
 
-        if(myTarget != null && Input.GetButtonDown("attack") && currentState != PlayerState.attack)
-        {
-            StartCoroutine(AttackCo());
-        }
-        else if (currentState == PlayerState.walk)
+
+        if (currentState == PlayerState.walk)
         {
             base.Update();
         }
@@ -79,14 +76,15 @@ public class Player : Character
 
 
 
-    private IEnumerator AttackCo()
+    private IEnumerator AttackCo(int spellIndex)
     {
         animator.SetBool("attacking", true);
         currentState = PlayerState.attack;
         yield return null;
         animator.SetBool("attacking", false);
         yield return new WaitForSeconds(.4f);
-        CastSpell();
+        Spell s = Instantiate(spellPrefab[spellIndex], exitPoints[exitIndex].position, Quaternion.identity).GetComponent<Spell>();
+        s.MyTarget = MyTarget;
         currentState = PlayerState.walk;
     }
 
@@ -102,9 +100,12 @@ public class Player : Character
         change.y = Input.GetAxisRaw("Vertical");
     }
 
-    public void CastSpell()
+    public void CastSpell(int spellIndex)
     {
-        Instantiate(spellPrefab[0], exitPoints[exitIndex].position, Quaternion.identity);
+        if(MyTarget != null && currentState != PlayerState.attack)
+        {
+            StartCoroutine(AttackCo(spellIndex));
+        }   
 
     }
 
