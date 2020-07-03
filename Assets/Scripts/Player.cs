@@ -10,16 +10,16 @@ public enum PlayerState
 }
 public class Player : Character
 {
+    
     public PlayerState currentState;
     
-    [SerializeField]
-    private Stat health;
     
     [SerializeField]
     private Stat mana;
 
+    private SpellBook spellBook;
+
     
-     private float initHealth = 100;
      private float initMana = 50;
     
     [SerializeField]
@@ -37,7 +37,7 @@ public class Player : Character
     // Start is called before the first frame update
     protected override void Start()
     {
-        health.Initialize(initHealth,initHealth);
+        spellBook = GetComponent<SpellBook>();
         mana.Initialize(initMana,initMana);
         currentState = PlayerState.walk;
         base.Start();
@@ -78,22 +78,30 @@ public class Player : Character
 
     private IEnumerator AttackCo(int spellIndex)
     {
+        Transform currentTarget = MyTarget;
+        Spell newSpell = spellBook.CastSpell(spellIndex);
         animator.SetBool("attacking", true);
         currentState = PlayerState.attack;
         yield return null;
         animator.SetBool("attacking", false);
         yield return new WaitForSeconds(.4f);
-        Spell s = Instantiate(spellPrefab[spellIndex], exitPoints[exitIndex].position, Quaternion.identity).GetComponent<Spell>();
-        s.MyTarget = MyTarget;
+        if (currentTarget != null)
+        {
+            SpellScript s = Instantiate(newSpell.MySpellPrefab, exitPoints[exitIndex].position, Quaternion.identity).GetComponent<SpellScript>();
+            s.Initialize(currentTarget, newSpell.MyDamage);
+        }
+        
+        //s.MyTarget = MyTarget;
+        
         currentState = PlayerState.walk;
     }
 
     private void GetInput()
     {
-        if(Input.GetKeyDown(KeyCode.I)){
-            health.MyCurrentValue -=10;
-            mana.MyCurrentValue -= 10;
-        }
+        //if(Input.GetKeyDown(KeyCode.I)){
+           // health.MyCurrentValue -=10;
+           // mana.MyCurrentValue -= 10;
+        //}
         
         change = Vector3.zero;
         change.x = Input.GetAxisRaw("Horizontal");

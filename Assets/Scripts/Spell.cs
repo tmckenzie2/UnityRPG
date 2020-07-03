@@ -1,37 +1,52 @@
-﻿using System.Collections;
+﻿using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Text;
 using UnityEngine;
 
-public class Spell : MonoBehaviour
+[System.Serializable]
+public class Spell 
 {
-    private Rigidbody2D myRigidbody;
-    
+    [SerializeField]
+    private string name;
+    [SerializeField]
+    private int damage;
     [SerializeField]
     private float speed;
+    [SerializeField]
+    private GameObject spellPrefab;
 
-    public Transform MyTarget { get; set; }
-    // Start is called before the first frame update
-    void Start()
+    public string MyName
     {
-        myRigidbody = GetComponent<Rigidbody2D>();
+        get{
+            return name;
+        }
         
     }
 
-    // Update is called once per frame
-    void Update()
+    public int MyDamage
     {
+        get{
+            return damage;
+        }
         
     }
 
-    private void FixedUpdate()
+    public float MySpeed
     {
-        Vector3 direction = MyTarget.position - transform.position;
-
-        myRigidbody.velocity = direction.normalized * speed;
-
-        float angle = Mathf.Atan2(direction.y,direction.x) * Mathf.Rad2Deg;
-
-        transform.rotation = Quaternion.AngleAxis(angle, Vector3. forward);
+        get
+        {
+            return speed;
+        }
     }
-    
+
+    public GameObject MySpellPrefab
+    {
+        get
+        {
+            return spellPrefab;
+        }
+    }
+
 }
+

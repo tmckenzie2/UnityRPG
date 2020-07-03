@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+[RequireComponent(typeof(Rigidbody2D))]
+[RequireComponent(typeof(Animator))]
 public abstract class Character : MonoBehaviour
 {
 
@@ -13,6 +15,16 @@ public abstract class Character : MonoBehaviour
     private Rigidbody2D myRigidbody;
 
     protected Animator animator;
+
+    [SerializeField]
+    protected Transform hitBox;
+
+    [SerializeField]
+    protected Stat health;
+    
+    [SerializeField]
+    private float initHealth = 100;
+
 
     public bool isMoving
     {
@@ -26,9 +38,9 @@ public abstract class Character : MonoBehaviour
     // Start is called before the first frame update
     protected virtual void Start()
     {
+        health.Initialize(initHealth,initHealth);
         myRigidbody = GetComponent<Rigidbody2D>();
-        animator = GetComponent<Animator>();
-        
+        animator = GetComponent<Animator>();   
     }
 
     // Update is called once per frame
@@ -58,6 +70,17 @@ public abstract class Character : MonoBehaviour
         myRigidbody.MovePosition(
         transform.position + change.normalized*speed*Time.deltaTime
         );
+
+    }
+
+    public virtual void TakeDamage(float damage)
+    {
+        health.MyCurrentValue -= damage;
+
+        if (health.MyCurrentValue <= 0)
+        {
+            animator.SetTrigger("die");
+        }
 
     }
 }
